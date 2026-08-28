@@ -8,7 +8,9 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%006994&size=32&center=true&vCenter=true&width=1000&height=40&lines=Electrical+Engineer+%7C+Computer+Science+Student%3BSoftware+Developer)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=006994&size=32&center=true&vCenter=true&width=750&height=40&lines=Electrical+Engineer;Computer+Science+Student;Software+Developer" alt="Typing SVG"/>
+</p>
 
 ---
 
@@ -38,5 +40,5 @@
 
 ## Languages
 
-* 🇧🇷 **Portuguese** - Native / Bilingual[cite: 1]
-* 🇺🇸 **English** - Native / Bilingual[cite: 1]
+* <img src="https://flagcdn.com/24x18/br.png" width="18"> **Portuguese** - Native / Bilingual[cite: 1]
+* <img src="https://flagcdn.com/24x18/us.png" width="18"> **English** - Native / Bilingual[cite: 1]
