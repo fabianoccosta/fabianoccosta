@@ -15,8 +15,8 @@
 ---
 
 ### About Me
-* **Electrical Engineer**[cite: 1].
-* Currently pursuing a Bachelor's degree in **Computer Science at PUC-Rio**[cite: 1].
+* **Electrical Engineer**.
+* Currently pursuing a Bachelor's degree in **Computer Science at PUC-Rio**.
 * Focused on software development, combining an engineering background with advanced knowledge in programming and computer systems.
 
 ---
@@ -40,5 +40,5 @@
 
 ## Languages
 
-* <img src="https://flagcdn.com/24x18/br.png" width="18"> **Portuguese** - Native / Bilingual[cite: 1]
-* <img src="https://flagcdn.com/24x18/us.png" width="18"> **English** - Native / Bilingual[cite: 1]
+* <img src="https://flagcdn.com/24x18/pt.png" width="18"> **Portuguese** - Native / Bilingual
+* <img src="https://flagcdn.com/24x18/us.png" width="18"> **English** - Native / Bilingual
